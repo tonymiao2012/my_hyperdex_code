@@ -1,0 +1,26 @@
+Actual size: 1024
+Wrong!!! Actual size: 1024
+Actual size: 1908331914
+Wrong!!! Actual size: 1908331914
+Actual size: 552929194
+Wrong!!! Actual size: 552929194
+Actual size: -1727574573
+Wrong!!! Actual size: -1727574573
+Actual size: 1908331914
+Wrong!!! Actual size: 1908331914
+Actual size: -1727574573
+Wrong!!! Actual size: -1727574573
+Actual size: 552929194
+Wrong!!! Actual size: 552929194
+Actual size: 1908331914
+Wrong!!! Actual size: 1908331914
+Actual size: -117440512
+Wrong!!! Actual size: -117440512
+
+=====================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 6
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+=====================================================================================
+APPLICATION TERMINATED WITH THE EXIT STRING: Aborted (signal 6)

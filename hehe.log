@@ -1,0 +1,37 @@
+% time     seconds  usecs/call     calls    errors syscall
+------ ----------- ----------- --------- --------- ----------------
+  -nan    0.000000           0        13           read
+  -nan    0.000000           0         8           write
+  -nan    0.000000           0        14           open
+  -nan    0.000000           0        15           close
+  -nan    0.000000           0        14           fstat
+  -nan    0.000000           0         7           poll
+  -nan    0.000000           0        36           mmap
+  -nan    0.000000           0        24           mprotect
+  -nan    0.000000           0         1           munmap
+  -nan    0.000000           0         6           brk
+  -nan    0.000000           0         3           rt_sigaction
+  -nan    0.000000           0         1           rt_sigprocmask
+  -nan    0.000000           0        13        13 access
+  -nan    0.000000           0         1           alarm
+  -nan    0.000000           0         3           socket
+  -nan    0.000000           0         2           connect
+  -nan    0.000000           0         7           sendto
+  -nan    0.000000           0        21         6 recvfrom
+  -nan    0.000000           0         3           recvmsg
+  -nan    0.000000           0         1           bind
+  -nan    0.000000           0         1           getsockname
+  -nan    0.000000           0         1           setsockopt
+  -nan    0.000000           0         1           execve
+  -nan    0.000000           0         1           wait4
+  -nan    0.000000           0         1           fcntl
+  -nan    0.000000           0         3           getrlimit
+  -nan    0.000000           0         1           arch_prctl
+  -nan    0.000000           0         2         1 futex
+  -nan    0.000000           0         2           epoll_create
+  -nan    0.000000           0         1           set_tid_address
+  -nan    0.000000           0         2           epoll_ctl
+  -nan    0.000000           0         1           set_robust_list
+  -nan    0.000000           0         7           epoll_pwait
+------ ----------- ----------- --------- --------- ----------------
+100.00    0.000000                   217        20 total

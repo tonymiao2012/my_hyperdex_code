@@ -1,0 +1,63 @@
+Code: 8448, removed old space successfully.
+Code: 8448, created space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, created space successfully.
+Code: 8448, created space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, created space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, created space successfully.
+kvs_put: common/configuration.cc:392: hyperdex::virtual_server_id hyperdex::configuration::point_leader(const char*, const e::slice&): Assertion `!m_spaces[s].subspaces[0].regions[pl].replicas.empty()' failed.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+kvs_put: common/configuration.cc:392: hyperdex::virtual_server_id hyperdex::configuration::point_leader(const char*, const e::slice&): Assertion `!m_spaces[s].subspaces[0].regions[pl].replicas.empty()' failed.
+Code 8449, failed to remove the old space.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, created space successfully.
+Code: 8448, created space successfully.
+Code: 8448, created space successfully.
+Code: 8448, created space successfully.
+Code: 8448, created space successfully.
+Code: 8448, created space successfully.
+Code: 8448, created space successfully.
+Code: 8448, removed old space successfully.
+kvs_put: common/configuration.cc:392: hyperdex::virtual_server_id hyperdex::configuration::point_leader(const char*, const e::slice&): Assertion `!m_spaces[s].subspaces[0].regions[pl].replicas.empty()' failed.
+kvs_put: common/configuration.cc:392: hyperdex::virtual_server_id hyperdex::configuration::point_leader(const char*, const e::slice&): Assertion `!m_spaces[s].subspaces[0].regions[pl].replicas.empty()' failed.
+kvs_put: common/configuration.cc:392: hyperdex::virtual_server_id hyperdex::configuration::point_leader(const char*, const e::slice&): Assertion `!m_spaces[s].subspaces[0].regions[pl].replicas.empty()' failed.
+kvs_put: common/configuration.cc:392: hyperdex::virtual_server_id hyperdex::configuration::point_leader(const char*, const e::slice&): Assertion `!m_spaces[s].subspaces[0].regions[pl].replicas.empty()' failed.
+Code: 8448, created space successfully.
+kvs_put: common/configuration.cc:392: hyperdex::virtual_server_id hyperdex::configuration::point_leader(const char*, const e::slice&): Assertion `!m_spaces[s].subspaces[0].regions[pl].replicas.empty()' failed.
+kvs_put: common/configuration.cc:392: hyperdex::virtual_server_id hyperdex::configuration::point_leader(const char*, const e::slice&): Assertion `!m_spaces[s].subspaces[0].regions[pl].replicas.empty()' failed.
+kvs_put: common/configuration.cc:392: hyperdex::virtual_server_id hyperdex::configuration::point_leader(const char*, const e::slice&): Assertion `!m_spaces[s].subspaces[0].regions[pl].replicas.empty()' failed.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+kvs_put: common/configuration.cc:392: hyperdex::virtual_server_id hyperdex::configuration::point_leader(const char*, const e::slice&): Assertion `!m_spaces[s].subspaces[0].regions[pl].replicas.empty()' failed.
+Code: 8448, removed old space successfully.
+kvs_put: common/configuration.cc:392: hyperdex::virtual_server_id hyperdex::configuration::point_leader(const char*, const e::slice&): Assertion `!m_spaces[s].subspaces[0].regions[pl].replicas.empty()' failed.
+Code: 8448, removed old space successfully.
+kvs_put: common/configuration.cc:392: hyperdex::virtual_server_id hyperdex::configuration::point_leader(const char*, const e::slice&): Assertion `!m_spaces[s].subspaces[0].regions[pl].replicas.empty()' failed.
+Code: 8448, removed old space successfully.
+Code 8449, failed to remove the old space.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+Code: 8448, removed old space successfully.
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 134
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Aborted (signal 6)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions

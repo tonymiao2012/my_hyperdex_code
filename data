@@ -1,0 +1,5 @@
+0 mpi_write() 128
+1 mpi_write() 256
+2 mpi_write() 512
+4 mpi_write() 768
+5 mpi_write() 1024
